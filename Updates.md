@@ -12,4 +12,9 @@ Endast för personligt bruk.
 * Fallade träd animationer efter x antal hugg.
 * Startmeny
 * Advancerade Inställningar
+* Större värld 
+* Vatten (Sjöar, Åar, Hav)
+* Djur (Vargar, Björnar)
+* AI (Artificiell Intelligens)
+* Inventory
 ---
