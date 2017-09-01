@@ -1,6 +1,5 @@
 # Survival Game V.0
 Endast för personligt bruk. 
-© 2017 AntonSandin.se. All rights reserved.
 ---
 #Updates för V.0:
 * Uppdaterade grafiken
