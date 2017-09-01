@@ -1,5 +1,4 @@
 # Survival Game V.0
-Endast för personligt bruk. 
 ---
 # Updates för V.0:
 * Uppdaterade grafiken
